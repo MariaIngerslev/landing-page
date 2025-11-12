@@ -9,16 +9,25 @@ body {
 .hero {
     background-color: #1F2937;
     color: white;
-    padding: 8px 32px;
+    padding: 8px 128px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
     gap: 20px;
 }
 
 .nav {
-    
-    justify-content: space-between;
-    align-items: center;
+    padding-bottom: 64px;
+}
+
+.nav-item-logo {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.nav-right {
+    display: flex;
+    gap: 24px;
 }
 
 ul {
@@ -26,4 +35,27 @@ ul {
     display: flex;
     margin: 0;
     padding: 0;
+}
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero-sub-text {
+    color: rgba(255, 255, 255, 0.767);
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.hero-signup-button {
+    background-color: #2563EB;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-bottom: 64px;    
 }
