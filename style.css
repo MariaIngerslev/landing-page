@@ -148,7 +148,7 @@ ul {
     align-items: center;
     justify-content: space-between;
     margin: 88px 128px;
-    background-color: #3882F6;
+    background-color: #2563EB;
     color: white;
     padding: 32px 98px;
     border-radius: 10px;
@@ -161,7 +161,7 @@ ul {
 }
 
 .signup-button {
-    background-color: #3882F6;
+    background-color: #2563EB;
     color: white;
     font-size: 14px;
     font-weight: 900;
