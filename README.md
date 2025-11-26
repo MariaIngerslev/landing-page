@@ -5,7 +5,7 @@ It focuses on building a complete marketing-style landing page using only **HTML
 
 ---
 
-## 🚀 Features
+## Features
 
 ### Navigation
 - Logo on the left and navigation links on the right  
@@ -37,7 +37,7 @@ It focuses on building a complete marketing-style landing page using only **HTML
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **HTML5**  
 - **CSS3 (Flexbox)**  
@@ -45,14 +45,17 @@ It focuses on building a complete marketing-style landing page using only **HTML
 
 ---
 
-## 📂 Project Structure
+## Project Structure
+```bash 
+/landing-page
+├── README.md
 ├── index.html
 ├── style.css
-└── README.md
+```
 
 ---
 
-## 📘 What I Learned
+## What I Learned
 
 - Structuring a full landing page from scratch  
 - Using Flexbox for layout alignment and spacing  
@@ -62,7 +65,7 @@ It focuses on building a complete marketing-style landing page using only **HTML
 
 ---
 
-## ✨ Future Improvements
+## Future Improvements
 
 - Add responsive design for mobile and tablet  
 - Replace placeholder boxes with actual images  
